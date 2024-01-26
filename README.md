@@ -1,15 +1,19 @@
 # Financial_Report
 
-## Tools Used
-![Static Badge](https://img.shields.io/badge/Language-MySQL-blue) ![Static Badge](https://img.shields.io/badge/Language-PowerBI-orange)
+## Business Report
 
-
-# Business Report
-
+## Data Source
+[Data Source]()
 
 ## Data Model
+[FR_Datamodel]()
 
-
-
+## Features
+[Income]()
+[Balance]()
+[CF]()
+[Details]()
+[Aged]()
+[Revenue]()
 
 # Conclusion
