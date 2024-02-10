@@ -1,5 +1,7 @@
 # Financial Statement Overview Dashboard
 
+![Income_Statement](https://github.com/NumberHumanoid/Financial_Report/assets/149428916/be3489a3-140a-4ab8-84a9-7c7211c2167a)
+
 ## Business Objective
 
 **Objective:** The primary goal of this project is to develop an intuitive and comprehensive financial dashboard tailored specifically for the financial team at EnterpriseDNA. This dashboard is designed to streamline financial reporting and analysis processes, enabling efficient decision-making and strategic financial planning.
@@ -25,7 +27,6 @@ The dashboard includes the following key financial pages:
 
 
 ## Features
-![Income_Statement](https://github.com/NumberHumanoid/Financial_Report/assets/149428916/be3489a3-140a-4ab8-84a9-7c7211c2167a)
 ![Balance_CF](https://github.com/NumberHumanoid/Financial_Report/assets/149428916/7a3bb030-f78a-4cd2-87fb-50e41b281a0a)
 ![Financial_Details](https://github.com/NumberHumanoid/Financial_Report/assets/149428916/6c5d244f-9a4c-41a8-b95d-972686e9cb8c)
 ![Aged_Trail](https://github.com/NumberHumanoid/Financial_Report/assets/149428916/40211c55-a59f-4dc2-a644-0203a5d6f3c4)
